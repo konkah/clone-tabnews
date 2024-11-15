@@ -4,7 +4,7 @@
   "description": "Project created by curso.dev instructions to training development end-to-end",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
